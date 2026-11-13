@@ -34,7 +34,7 @@ I'm a 4th-year B.Tech. UG, working where **power systems meet computing**. My re
 | Risk-Calibrated Communication and Adaptive Safe Recovery in Hierarchical Multi-Agent RL under Compound Communication Failures | 🟡 Under review · Preprint | [Preprint](https://www.preprints.org/manuscript/202610.2598) · [Code](https://github.com/Himanshu3122/Risk-Calibrated-Communication-and-Adaptive-Safe-Recovery-in-Hierarchical-Multi-Agent-RL.) |
 | Resilient Consensus Under Time-Varying Delays and Adversarial Agents: Safety, Rates, and Delay-Induced Equivocation | 🟡 Under review · Kybernetika · Preprint | [Preprint](https://www.preprints.org/manuscript/202611.0552) · [Code](https://github.com/Himanshu3122/Resilient-Consensus-Under-Time-Varying-Delays-and-Adversarial-Agents.) |
 | Queueing and Branching-Process Models of Multi-Agent LLM Workflows: Latency, Failure, and Cost Prediction from Workflow Structure | 🟡 Under review | [Code](https://github.com/Himanshu3122/Queueing-and-Branching-Process-Models-of-Multi-Agent-LLM-Workflows) |
-| Constrained Multi-Agent RL with a Convex Safety Projection for Charging a Mixed 2W/3W/4W EV Fleet on a Weak Low-Voltage Network | 🟡 Under review · IEEE GECA 2027 | [Code](https://github.com/Himanshu3122/Constrained-Multi-Agent-RL-for-Charging-a-Mixed-2W-3W-4W-EV-Fleet-on-a-Weak-Low-Voltage-Network) |
+| Constrained Multi-Agent RL with a Convex Safety Projection for Charging a Mixed 2W/3W/4W EV Fleet on a Weak Low-Voltage Network | ✅ Accepted | [Code](https://github.com/Himanshu3122/Constrained-Multi-Agent-RL-for-Charging-a-Mixed-2W-3W-4W-EV-Fleet-on-a-Weak-Low-Voltage-Network) |
 
 
 ### 🛠️ Projects
