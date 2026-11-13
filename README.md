@@ -31,10 +31,10 @@ I'm a B.Tech. UG student, working where **power systems meet computing**. My res
 | Paper | Status | Links |
 |---|---|---|
 | A Non-Homogeneous Poisson Process Framework for Dynamic Load Modeling of LLM Inference in GPU Clusters | ✅ Accepted · ICEPE 2026 | |
-| Risk-Calibrated Communication and Adaptive Safe Recovery in Hierarchical Multi-Agent RL under Compound Communication Failures | 🟡 Under review · Preprint | [Preprint](https://www.preprints.org/manuscript/202610.2598) · [Code](https://github.com/Himanshu3122/Risk-Calibrated-Communication-and-Adaptive-Safe-Recovery-in-Hierarchical-Multi-Agent-RL.) |
+| Constrained Multi-Agent RL with a Convex Safety Projection for Charging a Mixed 2W/3W/4W EV Fleet on a Weak Low-Voltage Network | ✅ Accepted · IEEE GECA 2027 | [Code](https://github.com/Himanshu3122/Constrained-Multi-Agent-RL-for-Charging-a-Mixed-2W-3W-4W-EV-Fleet-on-a-Weak-Low-Voltage-Network) |
+| A Decoupled Bivariate Workload-to-Power Model for Multi-Tenant Data Centers | 🟡 Under review · IEEE ICPC2T 2027 | [Code](https://github.com/Himanshu3122/Bivariate-Modeling-of-Green-Data-Center-Power-Analysis) |
+| A Component-Level Dynamic Load and UPS Reconnection Modelling Framework for Transient Stability Analysis of Grid-Connected Data Centers | 🟡 Under review · IEEE Systems Journal | |
 | Resilient Consensus Under Time-Varying Delays and Adversarial Agents: Safety, Rates, and Delay-Induced Equivocation | 🟡 Under review · Kybernetika · Preprint | [Preprint](https://www.preprints.org/manuscript/202611.0552) · [Code](https://github.com/Himanshu3122/Resilient-Consensus-Under-Time-Varying-Delays-and-Adversarial-Agents.) |
-| Queueing and Branching-Process Models of Multi-Agent LLM Workflows: Latency, Failure, and Cost Prediction from Workflow Structure | 🟡 Under review | [Code](https://github.com/Himanshu3122/Queueing-and-Branching-Process-Models-of-Multi-Agent-LLM-Workflows) |
-| Constrained Multi-Agent RL with a Convex Safety Projection for Charging a Mixed 2W/3W/4W EV Fleet on a Weak Low-Voltage Network | ✅ Accepted | [Code](https://github.com/Himanshu3122/Constrained-Multi-Agent-RL-for-Charging-a-Mixed-2W-3W-4W-EV-Fleet-on-a-Weak-Low-Voltage-Network) |
 
 
 ### 🛠️ Projects
