@@ -59,3 +59,27 @@ I'm a 4th-year B.Tech. UG, working where **power systems meet computing**. My re
 
 <div align="center"><sub>Research interests: ML for computing systems · LLMs & networked systems · Energy-efficient computing · Data center & GPU systems · Stochastic modeling & performance analysis</sub></div>
 
+---
+
+### 📌 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshu3122&theme=tokyonight" alt="GitHub overview" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshu3122&theme=tokyonight" height="180" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himanshu3122&theme=tokyonight" height="180" alt="Top languages by commit" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://himanshu3122.github.io"><img src="https://cdn.simpleicons.org/githubpages/0ea5e9" width="36" height="36" alt="Website" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=HFStV0gAAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar/0ea5e9" width="36" height="36" alt="Google Scholar" /></a>&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0007-8597-1816"><img src="https://cdn.simpleicons.org/orcid/0ea5e9" width="36" height="36" alt="ORCID" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Control63308560"><img src="https://cdn.simpleicons.org/x/0ea5e9" width="36" height="36" alt="X" /></a>
+</p>
+<p align="center"><b>Let's build something interesting.</b></p>
+
