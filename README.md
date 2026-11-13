@@ -6,11 +6,11 @@
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Modeling+the+power+demand+of+AI+data+centers;Stochastic+modeling+%26+simulation;Safe+multi-agent+reinforcement+learning;Smart+grids+%26+EV+charging" alt="Research areas" /></a>
 
-[![Website](https://img.shields.io/badge/Website-himanshu3122.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://himanshu3122.github.io)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-0ea5e9?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HFStV0gAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--8597--1816-0ea5e9?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8597-1816)
-[![X](https://img.shields.io/badge/X-@Control63308560-0ea5e9?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Control63308560)
-[![Email](https://img.shields.io/badge/Email-himanshuee.24@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuee.24@gmail.com)
+[![Website](https://img.shields.io/badge/Website-himanshu3122.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://himanshu3122.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HFStV0gAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--8597--1816-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8597-1816)
+[![X](https://img.shields.io/badge/X-@Control63308560-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Control63308560)
+[![Email](https://img.shields.io/badge/Email-himanshuee.24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuee.24@gmail.com)
 
 </div>
 
