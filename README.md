@@ -2,7 +2,7 @@
 
 # Hi, I'm Himanshu Singh 👋
 
-**An undergraduate at IEM Kolkata, modeling how AI and cloud computing load the power grid.**
+**An undergraduate at IEM Kolkata**
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Modeling+the+power+demand+of+AI+data+centers;Stochastic+modeling+%26+simulation;Safe+multi-agent+reinforcement+learning;Smart+grids+%26+EV+charging" alt="Research areas" /></a>
 
@@ -21,9 +21,10 @@
 I'm a 4th-year B.Tech. Electrical Engineering student (CGPA 9.2/10) working where **power systems meet computing**. My research models how cloud and AI data centers draw power, using stochastic workload models, component-level load models and power-system simulation, and what those loads mean for grid stability. I also work on **multi-agent systems**: stochastic models of multi-agent LLM workflows and safe multi-agent reinforcement learning.
 
 - 🎓 **Bachelor's thesis:** *Dynamic Load Modeling and Stability Analysis of High-Density Computational Infrastructure*
-- 🏛️ **Research intern**, Jadavpur University (Green Data Center Power Analysis) · **IoT intern**, NIELIT Lucknow
-- 🏆 GATE EE 2026 qualified · HPAIR Asia 2025 delegate (top 2%) · IEEE TechSangam finalist
-- 🌱 Open to research collaborations, internships and graduate opportunities
+- ➗ Mathematics enthusiast, focused on stochastic modelling.
+- 🧠 **Research interests:** stochastic modeling, energy-efficient computing, safe multi-agent reinforcement learning.
+- 🛠️ **Tools:** Python, MATLAB/Simulink, TensorFlow, LaTeX.
+- 🌱 Open to research collaborations, internships and graduate opportunities.
 
 ### 📄 Selected papers
 
@@ -35,7 +36,6 @@ I'm a 4th-year B.Tech. Electrical Engineering student (CGPA 9.2/10) working wher
 | Queueing and Branching-Process Models of Multi-Agent LLM Workflows: Latency, Failure, and Cost Prediction from Workflow Structure | 🟡 Under review | [Code](https://github.com/Himanshu3122/Queueing-and-Branching-Process-Models-of-Multi-Agent-LLM-Workflows) |
 | Constrained Multi-Agent RL with a Convex Safety Projection for Charging a Mixed 2W/3W/4W EV Fleet on a Weak Low-Voltage Network | 🟡 Under review · IEEE GECA 2027 | [Code](https://github.com/Himanshu3122/Constrained-Multi-Agent-RL-for-Charging-a-Mixed-2W-3W-4W-EV-Fleet-on-a-Weak-Low-Voltage-Network) |
 
-➡️ Full list with BibTeX on my [website](https://himanshu3122.github.io/research/).
 
 ### 🛠️ Projects
 
