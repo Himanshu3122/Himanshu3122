@@ -18,7 +18,7 @@
 
 ### 🔬 About me
 
-I'm a 4th-year B.Tech. Electrical Engineering student (CGPA 9.2/10) working where **power systems meet computing**. My research models how cloud and AI data centers draw power, using stochastic workload models, component-level load models and power-system simulation, and what those loads mean for grid stability. I also work on **multi-agent systems**: stochastic models of multi-agent LLM workflows and safe multi-agent reinforcement learning.
+I'm a 4th-year B.Tech. UG, working where **power systems meet computing**. My research models how cloud and AI data centers draw power, using stochastic workload models, component-level load models and power-system simulation, and what those loads mean for grid stability. I also work on **multi-agent systems**: stochastic models of multi-agent LLM workflows and safe multi-agent reinforcement learning.
 
 - 🎓 **Bachelor's thesis:** *Dynamic Load Modeling and Stability Analysis of High-Density Computational Infrastructure*
 - ➗ Mathematics enthusiast, focused on stochastic modelling.
