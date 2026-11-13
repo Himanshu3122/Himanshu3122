@@ -76,10 +76,9 @@ I'm a 4th-year B.Tech. UG, working where **power systems meet computing**. My re
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://himanshu3122.github.io"><img src="https://cdn.simpleicons.org/githubpages/0ea5e9" width="36" height="36" alt="Website" /></a>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=HFStV0gAAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar/0ea5e9" width="36" height="36" alt="Google Scholar" /></a>&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0007-8597-1816"><img src="https://cdn.simpleicons.org/orcid/0ea5e9" width="36" height="36" alt="ORCID" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/Control63308560"><img src="https://cdn.simpleicons.org/x/0ea5e9" width="36" height="36" alt="X" /></a>
+  <a href="https://himanshu3122.github.io"><img src="https://cdn.simpleicons.org/githubpages/222222/ffffff" width="36" height="36" alt="Website" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=HFStV0gAAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar" width="36" height="36" alt="Google Scholar" /></a>&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0007-8597-1816"><img src="https://cdn.simpleicons.org/orcid" width="36" height="36" alt="ORCID" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Control63308560"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="36" height="36" alt="X" /></a>
 </p>
-<p align="center"><b>Let's build something interesting.</b></p>
 
