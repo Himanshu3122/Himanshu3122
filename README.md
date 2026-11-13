@@ -58,3 +58,4 @@ I'm a 4th-year B.Tech. UG, working where **power systems meet computing**. My re
 ---
 
 <div align="center"><sub>Research interests: ML for computing systems · LLMs & networked systems · Energy-efficient computing · Data center & GPU systems · Stochastic modeling & performance analysis</sub></div>
+
